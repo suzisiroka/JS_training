@@ -376,6 +376,7 @@ while(uzivatelskeHeslo !== heslo) {
 //2. Výsledek každého hodu vypište do konzole s textem "Padlo číslo xx"
 //OPRAVIT - zacyklení - když v konzoli zobrazím hody kostkou, je to ok. Jakmile to dám do cyklu, nikdy 6 nepadne
 
+/*
 let hodKostky = Math.round((Math.random() * 6) + 0.5)
 
 if (hodKostky === 6) {
@@ -394,9 +395,12 @@ while(hodKostky !== 6) {
 // console.log("Padlo číslo " + hodKostky);
 
 
+*/
 
 
 
+
+//ÚKOL ČÍSELNÁ ŘADA 1-100
 
 
 //FUNKCE
