@@ -2,7 +2,7 @@
 /*
 https://www.youtube.com/watch?v=m3ArLlCYeLk&list=PLoXsS4T_EePl9r3504vwZDRwsHJfQZvTf&index=11
 */
-
+// test
 //pojmy:
 /*
 Number - číslo
